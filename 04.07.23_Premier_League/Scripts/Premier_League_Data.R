@@ -92,6 +92,6 @@ combined_teams <- Man_City + West + Arsenal + Tottenham
 combined_teams + plot_annotation(title = "Refrees that Officiated More Than One game for these 4 teams & The Result of Each",
                                  subtitle = "These teams love these refs!!!!!")
 
-ggsave(here("04.07.23_Premier_League", "Output", "Premier_league.png"))
+###ggsave(here("04.07.23_Premier_League", "Output", "Premier_league.png"))
   
 
